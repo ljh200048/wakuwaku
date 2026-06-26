@@ -1,0 +1,6 @@
+{
+  "name": "와쿠와쿠 (WAKU WAKU)",
+  "description": "감성 쿠키 브랜드와 따뜻한 카페 감성을 담은 프리미엄 온라인 스토어",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
